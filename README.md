@@ -1,4 +1,4 @@
-# Hasher. For Node.js.
+# Hasher. For Node.js. [![Build Status](https://travis-ci.org/chiefGui/hasher.svg?branch=0.0.2)](https://travis-ci.org/chiefGui/hasher)
 
 This is a simple, minimalist snippet that you'll attach onto your Node.js
 application to convert values into crypto supported hashes.
