@@ -1,4 +1,4 @@
-# Hasher. For Node.js. [![Build Status](https://travis-ci.org/chiefGui/hasher.svg?branch=0.0.2)](https://travis-ci.org/chiefGui/hasher)
+# Hasher. For Node.js. [![Build Status](https://travis-ci.org/chiefGui/hasher.svg?branch=master)](https://travis-ci.org/chiefGui/hasher)
 
 This is a simple, minimalist snippet that you'll attach onto your Node.js
 application to convert values into crypto supported hashes.
@@ -63,8 +63,9 @@ on the backstages.
 
 ### Release history
 
+* 0.0.3 Launching updates to get tests ready for Travis with Jasmine.
 * 0.0.2 Fixing naming issues which were conflicting with another package's name.
-* 0.0.1 Initial release
+* 0.0.1 Initial release,
 
 ### License
 
