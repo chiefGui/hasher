@@ -1,4 +1,4 @@
-# Hasher for Node.js
+# Hasher. For Node.js.
 
 This is a simple, minimalist snippet that you'll attach onto your Node.js
 application to convert values into crypto supported hashes.
@@ -28,7 +28,7 @@ var hash = hasher('md5', 123456);
 
 ### Download & installation
 
-`npm install hasher`
+`npm install node-hasher`
 
 ### Usage
 
@@ -36,7 +36,7 @@ When you want to empower your files with Hasher, the first thing you have to
 perform is its invokation:
 
 ```js
-var hasher = require ('hasher');
+var hasher = require ('node-hasher');
 ```
 
 Then, just call it wherever you want:
@@ -63,6 +63,7 @@ on the backstages.
 
 ### Release history
 
+* 0.0.2 Fixing naming issues which were conflicting with another package's name.
 * 0.0.1 Initial release
 
 ### License

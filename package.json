@@ -1,6 +1,6 @@
 {
-  "name": "hasher",
-  "version": "0.0.1",
+  "name": "node-hasher",
+  "version": "0.0.2",
   "description": "A simple, minimalist mechanism to get your strings hashed.",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/chiefGui/hasher",
   "devDependencies": {
-    "jasmine": "^2.0.1",
     "jasmine-node": "^1.14.5"
   }
 }
