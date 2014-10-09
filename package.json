@@ -1,0 +1,34 @@
+{
+  "name": "hasher",
+  "version": "0.0.1",
+  "description": "A simple, minimalist mechanism to get your strings hashed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiefGui/hasher"
+  },
+  "keywords": [
+    "hashsum",
+    "md5",
+    "sha1",
+    "sha512",
+    "crypto",
+    "nodejs",
+    "hash",
+    "node",
+    "hash"
+  ],
+  "author": "Guilherme Oderdenge <guilherme@oderdenge.com> (http://oderdenge.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiefGui/hasher/issues"
+  },
+  "homepage": "https://github.com/chiefGui/hasher",
+  "devDependencies": {
+    "jasmine": "^2.0.1",
+    "jasmine-node": "^1.14.5"
+  }
+}

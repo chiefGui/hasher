@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = utf-8
+
+[*.js]
+ident_size = 2
+
+[Makefile]
+ident_style = tab
+ident_size = 5
