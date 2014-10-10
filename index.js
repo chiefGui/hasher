@@ -5,14 +5,12 @@
  * @param content
  * @return {String}
  */
+var crypto = require ('crypto');
+
 module.exports = function (hash, content) {
-  var crypto = require ('crypto');
-
-  content = content.toString();
-
   var hashSum = crypto.createHash(hash);
 
-  hashSum.update(content);
+  hashSum.update(content.toString());
 
   return hashSum.digest('hex');
 };
