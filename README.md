@@ -65,7 +65,7 @@ on the backstages.
 
 * 0.0.3 Launching updates to get tests ready for Travis with Jasmine.
 * 0.0.2 Fixing naming issues which were conflicting with another package's name.
-* 0.0.1 Initial release,
+* 0.0.1 Initial release.
 
 ### License
 
